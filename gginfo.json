@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"type": "object",
+	"external": {
+		"js": [],
+		"css": []
+	},
+	"skin": {},
+	"player": {
+		"js": "object2vr_player.js"
+	},
+	"creationdate": "2024-10-16T01:23:44.544Z",
+	"configuration": "object.xml",
+	"preview": {
+		"img": "preview.jpg",
+		"width": 480,
+		"height": 480
+	}
+}
